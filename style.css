@@ -70,3 +70,7 @@ header{
     padding: 5px 4px;
 }
 
+.search .search-item{
+    display: flex;
+    
+}

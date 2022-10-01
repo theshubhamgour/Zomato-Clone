@@ -72,5 +72,24 @@ header{
 
 .search .search-item{
     display: flex;
-    
+    margin-left: 10px;
+    align-items: center; 
 }
+
+.search .search-item p{
+    color: gray;
+    border-right: 1px solid gray;
+    font-size: 15px;
+    margin-right: 10px;
+    margin: 10px;
+}
+
+
+.search .search-item input{
+    outline: none;
+    border: none;
+    width: 200%;
+    padding-left: 10px;
+    font-size: 15px;
+}
+
